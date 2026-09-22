@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.github
+.gitignore
+Dockerfile
+.dockerignore
+openshift
+*.md
+npm-debug.log
+coverage
+.vscode
+.idea
